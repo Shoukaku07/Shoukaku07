@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm delighted to have you here. I'm a software dev
 
 - 🌱 Currently learning and honing my skills in various programming languages.
 - 🔭 I enjoy collaborating on open source projects.
-- 📚 I'm interested in topics like web development, software development, and data processing.
+- 📚 I'm interested in topics like android development, software development, and cyber security.
 
 ## Contact Me
 
