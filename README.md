@@ -24,8 +24,22 @@ const aboutMe = {
     '🛡️ Understanding the realms of Cyber Security.'
   ],
   status: 'Just a Student',
-  workerSkill: 'Android Dev', 'Web Dev', 'Reverse Engineering', 'CyberSec', 'OSINT', 'Database', 'etc',
-  skillProgram: 'JavaScript', 'Java', 'Python', 'C', 'etc'
+  workerSkill: [
+     'Android Dev',
+     'Web Dev',
+     'Reverse Engineering',
+     'CyberSec', 
+     'OSINT',
+     'Database',
+     'etc'
+  ],
+  skillProgram: [
+     'JavaScript',
+     'Java',
+     'Python',
+     'C',
+     'etc'
+  ]
 };
 ```
 
