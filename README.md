@@ -45,6 +45,8 @@ const aboutMe = {
      'etc'
   ]
 };
+
+console.log(aboutMe);
 ```
 
 # Mediasocial
