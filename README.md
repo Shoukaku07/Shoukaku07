@@ -31,6 +31,7 @@ const aboutMe = {
      'CyberSec', 
      'OSINT',
      'Database',
+     'Machine Learning',
      'etc'
   ],
   skillProgram: [
@@ -38,6 +39,9 @@ const aboutMe = {
      'Java',
      'Python',
      'C',
+     'C#',
+     'Kotlin',
+     'PHP',
      'etc'
   ]
 };
