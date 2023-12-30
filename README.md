@@ -26,5 +26,5 @@ const aboutMe = {
 ```
 
 # Mediasocial
-• http://t.me/Shoukaku07
+- http://t.me/Shoukaku07
 - https://www.youtube.com/@HiddenProject1337
