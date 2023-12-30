@@ -1,37 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Hello World, ```I'm Shoukaku07!``` 👋
+  
+  Welcome to my realm of code and curiosity! 🌟
+  
+  I'm delighted to share this digital space with you.
+  Join me on this journey into the wonderful world of programming! 💻
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ```javascript
-/*
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Hello there, I'm Shoukaku07! 👋
-  Welcome to my GitHub world! 🌍
-  I'm thrilled to have you here. 
-  Let's dive into the realm of code together! 💻
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-*/
 
 const aboutMe = {
   name: 'Shoukaku07',
-  occupation: 'A Passionate Code Explorer',
+  occupation: 'Passionate Code Explorer',
   interests: [
-    '🌱 Learning & Mastering Coding',
-    '🚀 Exploring Open Source Projects',
-    '📘 Digging into Android Development',
-    '🛡️ Delving into Cyber Security'
+    '🌱 Constantly learning and mastering coding.',
+    '🚀 Exploring and contributing to Open Source projects.',
+    '📘 Delving deep into Android Development.',
+    '🛡️ Understanding the realms of Cyber Security.'
   ],
-  status: 'Just a Student in this Coding Odyssey!'
+  status: 'Just a Student embarking on this thrilling Coding Odyssey!'
 };
 
-// Current Coding Adventures:
-const codingAdventures = [
+// My Current Coding Expeditions:
+const codingExpeditions = [
   '🔭 Exploring various programming languages.',
   '🤝 Collaborating on captivating open source projects.'
 ];
 
-// 📚 I'm keen on ${aboutMe.interests.join('\n// 📚 ')}.
+// 📚 My keen interests include:
+// - ${aboutMe.interests.join('\n// - ')}.
 // ✨ ${aboutMe.status}
+```
 
-// Reach Me Here:
-const contact = {
-  telegram: '[Telegram](http://t.me/Shoukaku07)'
-};
-
-// Thank you for dropping by & happy coding! 🚀😄
+# Mediasocial
+• http://t.me/Shoukaku07
