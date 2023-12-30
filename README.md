@@ -1,4 +1,4 @@
-## Introduction!
+## ! Introduction !
 
 ```javascript
 /*
@@ -23,7 +23,9 @@ const aboutMe = {
     '📘 Delving deep into Android Development.',
     '🛡️ Understanding the realms of Cyber Security.'
   ],
-  status: 'Just a Student embarking on this thrilling Coding Odyssey!'
+  status: 'Just a Student',
+  workerSkill: 'Android Dev', 'Web Dev', 'Reverse Engineering', 'CyberSec', 'OSINT', 'Database', 'etc',
+  skillProgram: 'JavaScript', 'Java', 'Python', 'C', 'etc'
 };
 ```
 
