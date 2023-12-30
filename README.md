@@ -1,6 +1,7 @@
 ```javascript
 /*
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   Hello World, I'm Shoukaku07! 👋
   
   Welcome to my realm of code and curiosity! 🌟
@@ -22,17 +23,8 @@ const aboutMe = {
   ],
   status: 'Just a Student embarking on this thrilling Coding Odyssey!'
 };
-
-// My Current Coding Expeditions:
-const codingExpeditions = [
-  '🔭 Exploring various programming languages.',
-  '🤝 Collaborating on captivating open source projects.'
-];
-
-// 📚 My keen interests include:
-// - ${aboutMe.interests.join('\n// - ')}.
-// ✨ ${aboutMe.status}
 ```
 
 # Mediasocial
 • http://t.me/Shoukaku07
+- https://www.youtube.com/@HiddenProject1337
