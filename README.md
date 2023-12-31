@@ -16,7 +16,7 @@
 
 const aboutMe = {
   name: 'Shoukaku07',
-  occupation: 'Passionate Code Explorer',
+  Goal: 'Explore All Programming',
   interests: [
     '🌱 Constantly learning and mastering coding.',
     '🚀 Exploring and contributing to Open Source projects.',
