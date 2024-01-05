@@ -32,6 +32,7 @@ const aboutMe = {
      'OSINT',
      'Database',
      'Machine Learning',
+     'Deep Learning',
      'etc'
   ],
   skillProgram: [
