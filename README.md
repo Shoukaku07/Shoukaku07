@@ -23,7 +23,7 @@ const aboutMe = {
     '📘 Delving deep into Android Development.',
     '🛡️ Understanding the realms of Cyber Security.'
   ],
-  status: 'Just a Student Polyglot Development',
+  status: 'Just a Student With Simple Development Skills :v',
   workerSkill: [
      'Android Dev',
      'Web Dev',
