@@ -4,5 +4,5 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukaku07&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukaku07&layout=compact&theme=radical&v=1)
 ![Anime](https://media.tenor.com/SgHXpt3rKfYAAAAi/grant-yapping.gif)
