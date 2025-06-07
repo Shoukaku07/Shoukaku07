@@ -5,4 +5,4 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukaku07&layout=compact&theme=radical)
-![Anime](https://tenor.com/mYI21IPOM62.gif)
+![Anime](https://media.tenor.com/SgHXpt3rKfYAAAAi/grant-yapping.gif)
